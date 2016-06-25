@@ -3,11 +3,11 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [ACME Volume 1: labs](#acme-volume-1-labs)
-  - [Sean Wade](#sean-wade)
-    - [Getting Started](#getting-started)
-    - [NumPy and SciPy](#numpy-and-scipy)
-    - [Plotting](#plotting)
-    - [Complexity and Sparse Matrices](#complexity-and-sparse-matrices)
+    - [Sean Wade](#sean-wade)
+      - [Getting Started](#getting-started)
+      - [NumPy and SciPy](#numpy-and-scipy)
+      - [Plotting](#plotting)
+      - [Complexity and Sparse Matrices](#complexity-and-sparse-matrices)
     - [Affine Transformations of Linear Systems](#affine-transformations-of-linear-systems)
     - [QR Decomposition](#qr-decomposition)
     - [Least Squares nad Eigenvalue Solvers](#least-squares-nad-eigenvalue-solvers)
@@ -20,20 +20,20 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # ACME Volume 1: labs
-## Sean Wade
+### Sean Wade
 
-### Getting Started
+#### Getting Started
 
 
-### NumPy and SciPy
+#### NumPy and SciPy
 
 Create and manipulate Numpy arrays and learn features available in Numpy and Scipy.
 
-### Plotting
+#### Plotting
 
 Exploring plotting in matplotlib and mayavi.
 
-### Complexity and Sparse Matrices
+#### Complexity and Sparse Matrices
 
 ### Affine Transformations of Linear Systems
 
