@@ -36,6 +36,7 @@
 
 ### Lab1 - Getting Started
 
+Explore the powerful and simple syntax of python.
 
 ### Lab2 - NumPy and SciPy
 
