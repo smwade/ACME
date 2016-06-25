@@ -1,6 +1,10 @@
+# ACME Volume 1: Labs
+
+Sean Wade
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [ACME Volume 1: Labs](#acme-volume-1-labs)
     - [Lab1 - Getting Started](#lab1---getting-started)
@@ -30,8 +34,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# ACME Volume 1: Labs
-Sean Wade
 
 ### Lab1 - Getting Started
 
