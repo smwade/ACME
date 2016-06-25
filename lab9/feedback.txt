@@ -1,0 +1,50 @@
+
+----------------------------------------------------
+11/16/2015 7:30
+
+
+Problem 1 (10 points):
+ Wrong matrix shapes for input r = 2, A = 
+[[ 1  0  3]
+ [ 1  2  0]
+ [ 5  0 -1]
+ [ 0  3  5]]
+Matrix shapes should be 
+U: (m,r)
+S: (r,) or (r,1)
+Vh: (r,n)
+Hint: return just the diagonal of S (as specified in the docstring)
+ Wrong matrix shapes for input r = 5, A = 
+[[234  88 284  55 123]
+ [194  82 274 157 218]
+ [235 151  80 130 287]
+ [ 92  48  17 195 298]
+ [245 289 299 292 247]
+ [256 163   9 135 260]
+ [ 66 280 285  72 155]
+ [187  73  75  17 134]
+ [161 218 275 198 292]
+ [275 114 243 232   3]]
+Matrix shapes should be 
+U: (m,r)
+S: (r,) or (r,1)
+Vh: (r,n)
+Hint: return just the diagonal of S (as specified in the docstring)
+Score += 6
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 46/50 = 92.0%
+
+Great job!
+

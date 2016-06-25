@@ -1,0 +1,42 @@
+
+----------------------------------------------------
+10/19/2015 7:27
+Volume I Lab 6: QR Decomposition.
+Sean Wade
+13/10/2015
+
+
+Problem 1 (15 points):
+Score += 15
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):Error with A = 
+[[  0.81811212   9.90410939  18.63062218]
+ [ 16.67254331  14.99858322   4.62354685]
+ [ 11.59896968  18.20338321  14.50300464]
+ [  3.21855479   1.33082079   9.37037544]]
+R = 
+[[ -2.05800437e+01  -2.30121479e+01  -1.41256843e+01]
+ [ -7.10542736e-15  -1.12527408e+01  -1.82424959e+01]
+ [ -3.55271368e-15   0.00000000e+00  -1.66614839e+00]
+ [ -8.88178420e-16  -8.88178420e-16  -1.14681596e+01]]
+is not upper triangular.
+
+
+Score += 8
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (8 points, Extra Credit):
+Error: 'NoneType' object is not iterable
+
+Problem 6 (8 points, Extra Credit):
+Error: 'NoneType' object is not iterable
+
+Total score: 38/40 = 95.0%
+
+Great job!
+

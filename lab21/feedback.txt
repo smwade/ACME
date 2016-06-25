@@ -1,0 +1,56 @@
+04/03/16 00:07 
+
+Error loading smwade/lab21/solutions.py:
+	[Errno 2] No such file or directory: 'datafile.txt'
+
+-------------------------------------------------------
+
+
+04/04/16 12:56 
+
+Problem 1 (10 points):
+AttributeError: 'numpy.ndarray' object has no attribute 'todense'
+
+Problem 2 (10 points):
+ValueError: shape too large to be a matrix.
+
+Problem 3 (10 points):
+ValueError: shape too large to be a matrix.
+
+Problem 4 (10 points):
+NotImplementedError: eig_solve not implemented
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 10/50 = 20.0%
+
+
+Comments:
+	Problem 1 should return a sparse matrix. K is a weird size.
+
+-------------------------------------------------------
+
+
+04/11/16 09:11 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+TypeError: only integer arrays with one element can be converted to an index
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------
+
+

@@ -1,0 +1,64 @@
+
+----------------------------------------------------
+10/5/2015 6:48
+Volume I Lab 5: Invertible Affine Transformations and Linear Systems.
+Name: Sean Wade
+Date: 09/29/15
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Error: index 3 is out of bounds for axis 0 with size 3
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 60/70 = 85.7142857143%
+
+
+----------------------------------------------------
+10/6/2015 10:43
+Volume I Lab 5: Invertible Affine Transformations and Linear Systems.
+Name: Sean Wade
+Date: 09/29/15
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 70/70 = 100.0%
+
+Excellent!
+

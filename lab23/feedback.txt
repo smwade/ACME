@@ -1,0 +1,37 @@
+04/07/16 15:45 
+
+Problem 1 (20 points):
+Score += 20
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Output looks okay. Please comment out print statements before turning in code
+Score += 9
+
+Total score: 39/40 = 97.5%
+
+Great job!
+
+-------------------------------------------------------
+
+
+04/11/16 08:26 
+
+Problem 1 (20 points):
+Score += 20
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------
+
+

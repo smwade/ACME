@@ -1,0 +1,24 @@
+9/19/2015 0:46
+
+----------------------------------------------------
+Volume I Lab 3: Plotting with matplotlib
+Sean Wade
+9/15/15
+
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+

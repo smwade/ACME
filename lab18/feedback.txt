@@ -1,0 +1,34 @@
+03/10/16 22:52 
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+TypeError: compare_sum() takes exactly 1 argument (3 given)
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+TypeError: compare_sum() takes exactly 1 argument (3 given)
+
+Problem 6 (5 points):
+Nothing printed
+Score += 0
+
+Problem 8 (5 points):
+For full points, optimize beyond just adding @jit
+Score += 4
+
+Total score: 24/40 = 60.0%
+
+
+Comments:
+	Check what you're actually calling in problems 3 and 5
+
+-------------------------------------------------------
+
+
