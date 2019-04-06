@@ -1,0 +1,6 @@
+male,John,23
+female,Mary,31
+female,Sally,37
+male,Ted,19
+male,Jeff,41
+female,Cindy,25
